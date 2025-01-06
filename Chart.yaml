@@ -1,0 +1,5 @@
+apiVersion: v2
+name: nginx-website
+description: A simple NGINX website.
+version: 0.1.0
+
